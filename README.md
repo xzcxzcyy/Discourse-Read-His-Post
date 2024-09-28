@@ -10,7 +10,7 @@
 ## 安装
 
 1. 确保您的浏览器已安装 Tampermonkey 或类似的用户脚本管理器
-2. [点击这里](https://github.com/xzcxzcyy/Discourse-Read-His-Post/raw/main/discourse-user-posts.user.js) 安装脚本
+2. [点击这里](https://github.com/xzcxzcyy/Discourse-Read-His-Post/raw/main/read-his-post.user.js) 安装脚本
 
 ## 使用方法
 
